@@ -1,0 +1,56 @@
+{
+  "channel": {
+    "channel_id": "UCm1ez49mqk4fGj6YoRtuIWw",
+    "title": "The RA World",
+    "handle": "@TheRAWorld1",
+    "subscribers": 1,
+    "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kq6YXb49jimZm2YludLYcB7k8cNgTm_4PC3ukkjBS36lsG88gBf4yVReewSB8_5Sc-1A=s160-c-k-c0x00ffffff-no-rj",
+    "total_views": 5,
+    "total_likes": 1,
+    "video_count": 1,
+    "last_updated": "2026-09-22T20:32:17.558768Z"
+  },
+  "summary": {
+    "total_subscribers": 1,
+    "total_views": 5,
+    "total_likes": 1,
+    "total_videos": 1,
+    "avg_views_per_video": 5.0,
+    "engagement_rate": "20.0%"
+  },
+  "videos": [
+    {
+      "youtube_id": "-_5X7wfsWyc",
+      "title": "Baby Smells Dad's Socks and Faints \ud83d\ude02 #funnybaby #Shorts",
+      "url": "https://youtube.com/shorts/-_5X7wfsWyc",
+      "views": 5,
+      "likes": 1,
+      "comments": 0,
+      "duration": 20,
+      "thumbnail": "https://i.ytimg.com/vi/-_5X7wfsWyc/hq720_2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBgKFUwDw==&rs=AOn4CLB0T4FuogEw-NDp9NRMPKGG4wZd7w",
+      "posted_at": "2026-09-22T20:32:09.168156",
+      "status": "Public"
+    }
+  ],
+  "slots": {
+    "slot_1": {
+      "name": "Slot 1 (Newest)",
+      "time_utc": "22:00",
+      "time_pkt": "3:00 AM",
+      "status": "Ready",
+      "strategy": "Popular Split (Newest)"
+    },
+    "slot_2": {
+      "name": "Slot 2 (Top Viewed)",
+      "time_utc": "00:00",
+      "time_pkt": "5:00 AM",
+      "status": "Ready",
+      "strategy": "Popular Split (Most-Viewed)"
+    }
+  },
+  "target_creator": {
+    "platform": "TikTok",
+    "username": "kingdoms.beyond",
+    "url": "https://www.tiktok.com/@kingdoms.beyond"
+  }
+}
