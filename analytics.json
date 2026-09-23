@@ -3,28 +3,40 @@
     "channel_id": "UCm1ez49mqk4fGj6YoRtuIWw",
     "title": "The RA World",
     "handle": "@TheRAWorld1",
-    "subscribers": 1,
+    "subscribers": 2,
     "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kq6YXb49jimZm2YludLYcB7k8cNgTm_4PC3ukkjBS36lsG88gBf4yVReewSB8_5Sc-1A=s160-c-k-c0x00ffffff-no-rj",
-    "total_views": 5,
-    "total_likes": 1,
-    "video_count": 1,
-    "last_updated": "2026-09-22T20:32:17.558768Z"
+    "total_views": 7,
+    "total_likes": 2,
+    "video_count": 2,
+    "last_updated": "2026-09-23T17:08:36.082274Z"
   },
   "summary": {
-    "total_subscribers": 1,
-    "total_views": 5,
-    "total_likes": 1,
-    "total_videos": 1,
-    "avg_views_per_video": 5.0,
-    "engagement_rate": "20.0%"
+    "total_subscribers": 2,
+    "total_views": 7,
+    "total_likes": 2,
+    "total_videos": 2,
+    "avg_views_per_video": 3.5,
+    "engagement_rate": "28.6%"
   },
   "videos": [
+    {
+      "youtube_id": "bpzJNR-VNtI",
+      "title": "Short from @kingdoms.beyond",
+      "url": "https://youtube.com/shorts/bpzJNR-VNtI",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "duration": 0,
+      "thumbnail": "https://i.ytimg.com/vi/bpzJNR-VNtI/hqdefault.jpg",
+      "posted_at": "2026-09-23T17:08:28.730522",
+      "status": "Public"
+    },
     {
       "youtube_id": "-_5X7wfsWyc",
       "title": "Baby Smells Dad's Socks and Faints \ud83d\ude02 #funnybaby #Shorts",
       "url": "https://youtube.com/shorts/-_5X7wfsWyc",
-      "views": 5,
-      "likes": 1,
+      "views": 7,
+      "likes": 2,
       "comments": 0,
       "duration": 20,
       "thumbnail": "https://i.ytimg.com/vi/-_5X7wfsWyc/hq720_2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBgKFUwDw==&rs=AOn4CLB0T4FuogEw-NDp9NRMPKGG4wZd7w",
@@ -35,15 +47,15 @@
   "slots": {
     "slot_1": {
       "name": "Slot 1 (Newest)",
-      "time_utc": "22:00",
-      "time_pkt": "3:00 AM",
+      "time_utc": "16:00",
+      "time_pkt": "9:00 PM",
       "status": "Ready",
       "strategy": "Popular Split (Newest)"
     },
     "slot_2": {
       "name": "Slot 2 (Top Viewed)",
-      "time_utc": "00:00",
-      "time_pkt": "5:00 AM",
+      "time_utc": "19:00",
+      "time_pkt": "12:00 AM",
       "status": "Ready",
       "strategy": "Popular Split (Most-Viewed)"
     }
